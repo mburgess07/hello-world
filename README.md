@@ -1,2 +1,4 @@
 # hello-world
-Hello
+Hello All,
+
+New to the coding world, keen to learn! 
